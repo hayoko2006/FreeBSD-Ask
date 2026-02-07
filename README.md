@@ -172,3 +172,7 @@ EPUB 格式文档在手机上可使用 [微信读书](https://play.google.com/st
 ---
 
 ~~本书得到的 ⭐ 真是太少啦！~~ 若本书对你有帮助，欢迎给本书所在的 [GitHub 项目存储库](https://github.com/FreeBSD-Ask/FreeBSD-Ask) [备份](https://web.archive.org/web/20260121092738/https://github.com/FreeBSD-Ask/FreeBSD-Ask) 加颗 ⭐。
+
+---
+
+感谢合肥轻巧智联信息科技有限公司的支持
